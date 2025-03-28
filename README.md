@@ -1,2 +1,3 @@
 # satyam
-satyam don
+satyam doN
+VERSION
